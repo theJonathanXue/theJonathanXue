@@ -1,4 +1,4 @@
-- Hey, I'm Jonathan 👋 
+Hey, I'm Jonathan 👋 
 
 <!---
 theJonathanXue/theJonathanXue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
