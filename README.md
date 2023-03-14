@@ -5,8 +5,6 @@ theJonathanXue/theJonathanXue is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-- I'm a Computer Science student at the University of Waterloo
-- I love building web tools using Javascript libraries.
-- In the past, I have interned at startups working with React, Firebase, Redux and more to develop data-rich web applications
+- I'm a 3rd year Computer Science student at the University of Waterloo
+- I have interned at startups working with React, Angular, TypeScript, Python, Postgresql, Firebase, Docker and more to develop data-rich web applications
 - Looking to explore more technologies throughout internships!
-- I'm currently learning Angular, TypeScript, Docker, and more 
