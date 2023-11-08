@@ -24,6 +24,7 @@ You can click the Preview link to take a look at your changes.
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
     <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+    <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=GNUbash&logoColor=white" />
     <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
     <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
     <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white" />
@@ -37,7 +38,6 @@ You can click the Preview link to take a look at your changes.
     <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
     <img alt="Java" src="https://img.shields.io/badge/-Java-f8981d?style=for-the-badge&logo=java&logoColor=white" />
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
-    <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=GNUbash&logoColor=white" />
 </p>
 
 - I'm a 4th year Computer Science student at the University of Waterloo
