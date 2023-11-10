@@ -41,5 +41,5 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 - I'm a 4th year Computer Science student at the University of Waterloo
-- I have interned at startups working with React, Angular, TypeScript, Python, Postgresql, Firebase, Docker and more to develop data-rich web applications
+- I have interned at startups working with React, Angular, TypeScript, Python, SQL, Firebase, Docker and more to develop data-rich web applications and microservices.
 - Looking to explore more technologies throughout internships!
