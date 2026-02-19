@@ -40,6 +40,5 @@ You can click the Preview link to take a look at your changes.
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
 </p>
 
-- I'm a 4th year Computer Science student at the University of Waterloo
-- I have interned at companies working with AWS, Typescript, Javascript, Python, SQL, Docker, Firebase and more to develop data-rich web applications and microservices from E2E.
-- Looking to explore more technologies throughout internships!
+- Computer Science graduate from the University of Waterloo
+- I have interned at companies working with Python, Typescript, Javascript, SQL, Docker, AWS and more to develop data-rich web applications and microservices from E2E.
